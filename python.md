@@ -31,4 +31,30 @@ O resultado esperado, é uma mensagem informando uma versão qualquer acima da t
 
 ## Compilação / Execução:
 
-Bem fácil de se compilar e executar
+### Local
+
+#### Terminal
+
+Bem fácil de se executar localmente, a partir do terminal, basta informar o `python` ou `python3` (depende da instalação, pode testar a partir dos passos na seção anterior) e em seguida o nome do arquivo, exemplo:
+
+```sh
+python desafio1.py
+```
+
+#### IDE
+
+##### Visual Studio Code
+
+A maioria das IDEs possuem suporte à Python, com o VSCode, basta ter a linguagem instalada e adicionar a extensão de [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) da Microsoft que já aparecerá um ícone para rodar o códgio aberto atualmente automaticamente.
+
+##### JetBrains PyCharm
+
+Com a IDE da JetBrains é ainda mais fácil. Visto que ela foi pensada para trabalhar especialmente com Python, basta ter a linguagem instalada no computador que a IDE executa ao clicar no ícone de rodar na barra superior.
+
+### Online
+
+Dada a simplicidade da linguagem, rodar online acaba sendo igualmente fácil, basta acessar qualquer compilador online e inserir o código do desafio que já será possível executá-lo e depurá-lo. Alguns exemplos dos mais usados:
+
+- [Programiz](https://www.programiz.com/python-programming/online-compiler/)
+- [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
+- [OnlinePython](https://www.online-python.com/)
