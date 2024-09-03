@@ -5,9 +5,11 @@ A BugCup exige que o ambiente das máquinas pessoais dos participantes esteja pr
 Clique abaixo na linguagem para o qual você precisa conhecer melhor:
 
 - [Python](python.md)
-- JavaScript
-  - JavaScript + HTML
-  - JavaScript puro
-- PHP
+- [JavaScript](js.md)
+- [PHP](php.md)
 - [Java](java.md)
-- C
+- [C](c.md)
+
+Se você quiser testar ou ver um exemplo prático de como são os desafios elaborados pela Bugcup, confira a pasta de desafios que deixamos disponibilizados [aqui](./Desafios%20Exemplo/).
+
+Para eventuais dúvidas ou problemas na instalação, podem nos contatar nas nossas redes sociais.
