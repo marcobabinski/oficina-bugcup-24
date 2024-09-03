@@ -49,15 +49,16 @@ Para projetos com múltiplos arquivos, o ideal é a utilização de uma IDE dedi
 
 Recomendação particular: [JetBrains IntelliJ](https://www.jetbrains.com/pt-br/idea/)
 
-> ℹ️ Nota:
+> [!TIP]
 > Todos os alunos do IFFar podem usufruir da versão premium de várias IDEs da JetBrains gratuitamente através do e-mail institucional. Para mais detalhes de como fazer isso, consulte o coordenador do curso.
 
 ## Compilação Online
 
 Se preferir, você pode utilizar um compilador Java online.
 
-> **⚠️ Importante! ⚠️**
+> [!WARNING]
 > Compiladores online são preferíveis para projetos de arquivo único, visto que é muito imporvável que o compilador online esteja configurado ou seja configurável para adequar à questão informada pela equipe da BugCup e qualquer alteração na estrutura do projeto possivelmente acarretará em anulação da questão.
 
 [JDoodle Java Compiler](https://www.jdoodle.com/)
+
 [GDB Online Compiler](https://www.onlinegdb.com/online_java_compiler#)
